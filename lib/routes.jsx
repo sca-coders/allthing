@@ -8,6 +8,6 @@ FlowRouter.route("/", {
 
     },
     action(params) {
-        ReactLayout.render(MainLayout, { content: <div className="ui main container"><Home/></div>});
+        ReactLayout.render(MainLayout, { content: <Home/>});
     }
 });
