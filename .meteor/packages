@@ -18,8 +18,6 @@ ecmascript@0.5.7              # Enable ECMAScript2015+ syntax in app code
 check@1.2.3
 semantic:ui
 flemay:less-autoprefixer
-kadira:flow-router
-kadira:react-layout
 standard-minifier-css
 standard-minifier-js
 reactive-var

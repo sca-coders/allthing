@@ -12,8 +12,6 @@ caching-compiler@1.0.6
 caching-html-compiler@1.0.6
 callback-hook@1.0.9
 check@1.2.3
-coffeescript@1.0.17
-cosmos:browserify@0.9.4
 ddp@1.2.5
 ddp-client@1.2.9
 ddp-common@1.2.6
@@ -33,8 +31,6 @@ htmljs@1.0.10
 http@1.1.8
 id-map@1.0.8
 jquery@1.11.9
-kadira:flow-router@2.12.1
-kadira:react-layout@1.5.3
 launch-screen@1.0.12
 livedata@1.0.18
 logging@1.1.14
@@ -54,9 +50,6 @@ observe-sequence@1.0.12
 ordered-dict@1.0.8
 promise@0.8.3
 random@1.0.10
-react@0.14.6
-react-meteor-data@0.2.9
-react-runtime@0.14.5
 reactive-dict@1.1.8
 reactive-var@1.0.10
 reload@1.1.10
@@ -71,7 +64,6 @@ standard-minifier-css@1.1.8
 standard-minifier-js@1.1.8
 templating@1.1.14
 templating-tools@1.0.4
-tmeasday:check-npm-versions@0.2.0
 tracker@1.1.0
 ui@1.0.11
 underscore@1.0.9
