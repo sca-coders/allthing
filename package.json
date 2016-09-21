@@ -1,8 +1,16 @@
 {
+  "name": "todo",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
   "dependencies": {
-    "react": "^15.3.0",
-    "react-addons-pure-render-mixin": "^15.3.0",
-    "react-dom": "^15.3.0",
-    "react-router": "^2.6.1"
+    "bcrypt": "^0.8.7",
+    "classnames": "^2.2.5",
+    "meteor-node-stubs": "^0.2.3",
+    "react": "^15.3.1",
+    "react-addons-pure-render-mixin": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-mounter": "^1.2.0"
   }
 }
